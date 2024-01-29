@@ -1,0 +1,13 @@
+com.example.petadopt.app-jetified-annotation-experimental-1.1.0-0 C:\Users\amalf\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.petadopt.app-jetified-window-1.0.0-beta04-1 C:\Users\amalf\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.petadopt.app-jetified-window-java-1.0.0-beta04-2 C:\Users\amalf\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.petadopt.app-core-1.6.0-3 C:\Users\amalf\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
+com.example.petadopt.app-main-4 C:\xaviyo\Flutter\petAdopt\android\app\src\main\res
+com.example.petadopt.app-release-5 C:\xaviyo\Flutter\petAdopt\android\app\src\release\res
+com.example.petadopt.app-pngs-6 C:\xaviyo\Flutter\petAdopt\build\app\generated\res\pngs\release
+com.example.petadopt.app-resValues-7 C:\xaviyo\Flutter\petAdopt\build\app\generated\res\resValues\release
+com.example.petadopt.app-rs-8 C:\xaviyo\Flutter\petAdopt\build\app\generated\res\rs\release
+com.example.petadopt.app-mergeReleaseResources-9 C:\xaviyo\Flutter\petAdopt\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.petadopt.app-mergeReleaseResources-10 C:\xaviyo\Flutter\petAdopt\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.petadopt.app-merged_res-11 C:\xaviyo\Flutter\petAdopt\build\app\intermediates\merged_res\release
+com.example.petadopt.app-packaged_res-12 C:\xaviyo\Flutter\petAdopt\build\shared_preferences_android\intermediates\packaged_res\release

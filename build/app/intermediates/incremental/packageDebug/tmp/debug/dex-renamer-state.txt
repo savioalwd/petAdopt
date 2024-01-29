@@ -1,0 +1,4 @@
+#Tue Jan 30 02:21:20 IST 2024
+base.0=C\:\\xaviyo\\Flutter\\petAdopt\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
