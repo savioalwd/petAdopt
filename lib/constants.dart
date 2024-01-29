@@ -1,0 +1,100 @@
+class ConstantsList {
+  static const List<Map<String, String>> petsList = [
+    {
+      'name': 'Buddy',
+      'breed': 'Golden Retriever',
+      'description': 'Friendly and playful dog with a golden coat.',
+      'imageUrl': 'assets/pets/pet3.png',
+      'gender': 'Male',
+      'age': '2 years',
+      'height': '24 inches',
+      'weight': '70 lbs',
+    },
+    {
+      'name': 'Whiskers',
+      'breed': 'Siamese Cat',
+      'description': 'Elegant Siamese cat with striking blue eyes.',
+      'imageUrl': 'assets/pets/pet1.png',
+      'gender': 'Female',
+      'age': '1.5 years',
+      'height': '12 inches',
+      'weight': '8 lbs',
+    },
+    {
+      'name': 'Max',
+      'breed': 'Labrador Retriever',
+      'description': 'Loyal Labrador known for its intelligence.',
+      'imageUrl': 'assets/pets/pet9.png',
+      'gender': 'Male',
+      'age': '3 years',
+      'height': '26 inches',
+      'weight': '75 lbs',
+    },
+
+    {
+      'name': 'Rocky',
+      'breed': 'German Shepherd',
+      'description': 'Brave and protective German Shepherd.',
+      'imageUrl': 'assets/pets/pet5.png',
+      'gender': 'Male',
+      'age': '2.5 years',
+      'height': '25 inches',
+      'weight': '80 lbs',
+    },
+    // Add more pets
+    {
+      'name': 'Oliver',
+      'breed': 'Persian Cat',
+      'description': 'Gentle Persian cat with long luxurious fur.',
+      'imageUrl': 'assets/pets/pet6.png',
+      'gender': 'Male',
+      'age': '2 years',
+      'height': '10 inches',
+      'weight': '10 lbs',
+    },
+    {
+      'name': 'Luna',
+      'breed': 'Husky',
+      'description': 'Energetic Husky with striking blue eyes.',
+      'imageUrl': 'assets/pets/pet7.png',
+      'gender': 'Female',
+      'age': '2.5 years',
+      'height': '22 inches',
+      'weight': '45 lbs',
+    },
+    {
+      'name': 'Charlie',
+      'breed': 'Dachshund',
+      'description': 'Cute and playful Dachshund.',
+      'imageUrl': 'assets/pets/pet8.png',
+      'gender': 'Male',
+      'age': '1.8 years',
+      'height': '15 inches',
+      'weight': '12 lbs',
+    },
+    {
+      'name': 'Smokey',
+      'breed': 'British Shorthair',
+      'description': 'Charming British Shorthair cat with a plush coat.',
+      'imageUrl': 'assets/pets/pet9.png',
+      'gender': 'Male',
+      'age': '2 years',
+      'height': '9 inches',
+      'weight': '9 lbs',
+    },
+    {
+      'name': 'Cooper',
+      'breed': 'Boxer',
+      'description': 'Strong and friendly Boxer dog.',
+      'imageUrl': 'assets/pets/pet1.png',
+      'gender': 'Male',
+      'age': '3 years',
+      'height': '23 inches',
+      'weight': '70 lbs',
+    },
+    // Add more pets
+    // ...
+  ];
+}
+
+class ConstantColors {}
